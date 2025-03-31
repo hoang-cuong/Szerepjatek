@@ -1,0 +1,18 @@
+Játék szabályzat
+A játékban egy hőst irányit a játékos. A következő 4 faj közül választhat: 
+1.Human
+Leírás: Gyorsan alkalmazkodik és tanul. Sokoldalúak.
+Képesség:
+Adaptáció: Kepések a különböző környezetekhez való gyors alkalmazkodásra. A játékos megtudja növelni a statisztikáit egy rövid időre.
+2.Elves 
+Leírás: Hosszú élet, bölcsesség és természetes kötődés az erdőkhöz.
+Képesség:
+Varázslat gyermekei: Az elvek-ről azt mondják, hogy a mágia gyermekei. Növeli a varázslatok erejét.
+3.Dwarf 
+Leírás: Kiváló kovácsmesterek, illetve alkimisták.
+Képesség:
+Kovácsmester: A kovácsat büszke mesterei, akik mindenhez értenek emiatt 40% -kal kevesebb sebzést kapnak.
+4.	Orc 
+Leírás: Kiváló harcos, aki képes nagy mennyiségű sérülést elviselni.
+Képesség:
+Berserk: Egy rövid időre ignorálni tudnak bármilyen fajta támadást.
