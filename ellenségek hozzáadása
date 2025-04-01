@@ -1,0 +1,37 @@
+Játék szabályzat
+A játékban egy hőst irányit a játékos. A következő 4 faj közül választhat: 
+1.Human
+Leírás: Gyorsan alkalmazkodik és tanul. Sokoldalúak.
+Képesség:
+Adaptáció: Kepések a különböző környezetekhez való gyors alkalmazkodásra. A játékos megtudja növelni a statisztikáit egy rövid időre.
+2.Elves 
+Leírás: Hosszú élet, bölcsesség és természetes kötődés az erdőkhöz.
+Képesség:
+Varázslat gyermekei: Az elvek-ről azt mondják, hogy a mágia gyermekei. Növeli a varázslatok erejét.
+3.Dwarf 
+Leírás: Kiváló kovácsmesterek, illetve alkimisták.
+Képesség:
+Kovácsmester: A kovácsat büszke mesterei, akik mindenhez értenek emiatt 40% -kal kevesebb sebzést kapnak.
+4.	Orc 
+Leírás: Kiváló harcos, aki képes nagy mennyiségű sérülést elviselni.
+Képesség:
+Berserk: Egy rövid időre ignorálni tudnak bármilyen fajta támadást.
+Ellenségek
+1.	Golem
+Leírás: Egy élettelen, de ősi mágia által életre keltett óriási lény, amely szilárd és robosztus.
+Képességek:
+Mágikus Védelem: Csökkenti a mágikus támadások hatékonyságát.
+Összeomlás: Amikor legyőzik, hatalmas robbanást idézhet elő.
+2.	Slime 
+Leírás: Egy ragadós, mérgező anyagú élőlény, amely még az élőket is képes feloldani.
+Képesség:
+Feloldó Nyálka: A Slime támadása mérgezést okoz, amely idővel csökkenti a karakterek életerejét.
+3.	Titánok követői
+Leírás: A Titánok hívei, akik elkötelezték magukat a világ romba döntésében.
+Képességek:
+Titánok megidézése: Mágikus támadás, amely a Titánok erejét idézi meg.
+4.	Chimaera
+Leírás: Egy szörnyeteg, amelyet a Titánok követői hoztak létre különböző szörnyetegekből.
+Képességek:
+Chimaera üvöltés: Csökkenti a célpontok támadási és védelmi képességeit, és minden körben mérgezést okoz a zónában lévő karaktereknek.
+
